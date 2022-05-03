@@ -25,10 +25,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adiwajshing/Baileys.git"
+    "url": "git+https://github.com/Whats-bot/vem.git"
   },
   "bugs": {
-    "url": "https://github.com/adiwajshing/Baileys/issues"
+    "url": "https://github.com/Whats-bot/vem/issues"
   },
-  "homepage": "https://github.com/adiwajshing/Baileys#readme"
+  "homepage": "https://github.com/Whats-bot/vem#readme"
 }
